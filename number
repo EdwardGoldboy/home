@@ -1,0 +1,2 @@
+while guess != secret and tries < 6:
+    print("what is your guess ?")
